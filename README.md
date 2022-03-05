@@ -1,4 +1,5 @@
 # Informe Trabajo Extra Construcción  y simulación de un amplificador no inversor
+
 1. OBJETIVO GENERAL 
 
 *
