@@ -1,4 +1,4 @@
-# Informe Trabajo Extra Construcción  y simulación de un amplificador no inversor
+# Informe Trabajo Extra Construcción  y simulación de un sumador no inversor 
 
 1. OBJETIVO GENERAL 
 
@@ -10,7 +10,8 @@
 
 2. MARCO TEÓRICO 
 
-![Untitled (2)](https://user-images.githubusercontent.com/93899720/156893912-d13c0441-8f12-4f54-b2ea-7ea2317fe31e.jpg)
+![Untitled (3)](https://user-images.githubusercontent.com/93899720/156962205-966bd2c7-bea0-4fd7-bf32-3b7428e0e112.jpg)
+
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
