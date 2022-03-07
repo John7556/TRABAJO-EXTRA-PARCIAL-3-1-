@@ -2,11 +2,13 @@
 
 1. OBJETIVO GENERAL 
 
-*
+* Construir y comprender el Sumador no inversor el cual permita mediante un circuito tener la suma de dos o mas voltajes amplificados incialmente.
 
 1.2. OBJETIVO ESPECIFICO 
 
-.
+* Detallar y explicar la elaboracion del sumador no inversor y las dificultades presentadas en su ensamblaje.
+
+* Definir e indentificar el uso especifico de cada uno de los componentes y su importancia en el sumador no inversor.
 
 2. MARCO TEÓRICO 
 
@@ -28,5 +30,11 @@ MATERIALES:
 
 
 
+
 7. BIBLIOGRAFÍA
 
+* Amplificador sumador No inversor - Amplificadores operacionales. (s. f.). Solución ingenieril. Recuperado 22–03-07, de http://solucioningenieril.com/amplificadores_operacionales/amplificador_sumador_no_inversor
+
+* Amplificador sumador no inversor. (s. f.). SUMADOR. Recuperado 22–03-07, de https://wilaebaelectronica.blogspot.com/2017/01/amplificador-sumador-no-inversor.html
+
+* AMPLIFICADOR SUMADOR NO INVERSOR. (s. f.). Amplificadores. Recuperado 22–03-07, de https://www.electronicafacil.net/tutoriales/AMPLIFICADOR-SUMADOR-NO-INVERSOR.html
