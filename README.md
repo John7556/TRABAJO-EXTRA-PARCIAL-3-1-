@@ -72,7 +72,7 @@ En el circuito presentado nos muestra la suma d elos voltajes conectados incialm
 
 5. VIDEO
 
-
+https://youtu.be/PJfbIvHyGQY
 
 6. CONCLUSIONES
 
