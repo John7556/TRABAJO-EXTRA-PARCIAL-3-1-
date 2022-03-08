@@ -12,7 +12,7 @@
 
 2. MARCO TEÓRICO 
 
-![Untitled (3)](https://user-images.githubusercontent.com/93899720/156962205-966bd2c7-bea0-4fd7-bf32-3b7428e0e112.jpg)
+![Untitled (5)](https://user-images.githubusercontent.com/93899720/157170055-594cbf99-2705-48ce-874b-fcf80af665b6.jpg)
 
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
@@ -57,6 +57,10 @@ Conectamos los cables en los pines correspondiente y que todas tengan la salida 
 
 
 4. RESPUESTA A INTERROGANTES 
+
+Cual es la funcion de el sumador no inversor en este circuito ? 
+
+En el circuito presentado nos muestra la suma d elos voltajes conectados incialmente pero amplifcados por el amplificador operacional estos voltaje al momento que pasan por las resistencias y llegan al amplificador reciben una ganancia y hace que se eleven la configuracion que le damos a este amplificador operacional es para sumar lo cual junta los valores de los voltajes amplificados y los representa como una suma total en el multimetro.
 
 
 5. VIDEO
