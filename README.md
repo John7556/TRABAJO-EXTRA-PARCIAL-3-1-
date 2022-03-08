@@ -55,6 +55,13 @@ Conectamos los cables en los pines correspondiente y que todas tengan la salida 
 
 ![WhatsApp Image 2022-03-07 at 11 52 59 PM](https://user-images.githubusercontent.com/93899720/157169179-40f7fd46-0e06-41ba-aeb5-d30ff803b0b3.jpeg)
 
+6- Realizamos la simulacion del mismo circuito.
+
+![image](https://user-images.githubusercontent.com/93899720/157171233-2cdffc0f-f12d-4cb9-89d5-d5003f11b0d0.png)
+
+
+![image](https://user-images.githubusercontent.com/93899720/157171279-0ff17edb-6c87-4bab-820f-5581a71f71d7.png)
+
 
 4. RESPUESTA A INTERROGANTES 
 
