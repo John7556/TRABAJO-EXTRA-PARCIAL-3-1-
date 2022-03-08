@@ -41,7 +41,7 @@ Conectamos nuestro amplificador en nuestra protoboard y empezamos a puentear cad
 
 3-
 
-Conectamos las resistencias de la forma que se ve en el diagrama osea de la siguiente manera conectadas al amplificador.
+Conectamos nuestras 4 resistencias de la forma que se ve en el diagrama osea de la siguiente manera conectadas al amplificador.
 
 ![WhatsApp Image 2022-03-07 at 11 52 46 PM](https://user-images.githubusercontent.com/93899720/157168651-2972f32e-d4de-4da5-980b-5050fa1a82b5.jpeg)
 
